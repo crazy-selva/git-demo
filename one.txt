@@ -6,8 +6,12 @@ line number 5
 line number 6
 iam at line number 7
 line nuber 7
+<<<<<<< HEAD
 at line number 8
 
+=======
+line number 8
+>>>>>>> 333fbe6f3426b6da2ffb02720b3c6643b427a506
 
 
 
