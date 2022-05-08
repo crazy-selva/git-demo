@@ -1,4 +1,8 @@
 first line text
 second line from dev branch
+<<<<<<< HEAD
 ading third line
 
+=======
+line 3 edit form git hub
+>>>>>>> 17ceff0a330e9ffe28633d4dc8e0abb933e9b205
